@@ -1,4 +1,10 @@
 
+--CREATE TABLE alien (
+--    aid int,
+--    aname varchar(255),
+--    tech varchar(255)
+--);
+
 INSERT INTO alien VALUES(101, 'Lazaros', 'Python');
 
 INSERT INTO alien VALUES(102, 'Eirini', 'Angular');
